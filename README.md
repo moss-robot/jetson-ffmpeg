@@ -41,3 +41,9 @@ L4T Multimedia API for ffmpeg
 **example**
 
     ffmpeg -i input_file -c:v h264_nvmpi <output.mp4>
+
+
+### References
+1. https://github.com/shunguang/HowTo/blob/master/how-to-build-ffmpeg-4-jetson.txt
+2. https://github.com/Keylost/jetson-ffmpeg
+3. https://github.com/LinusCDE/mad-jetson-ffmpeg
